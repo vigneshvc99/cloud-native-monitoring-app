@@ -1,1 +1,1 @@
-# cloud-native-monitoring-app
+# containerized-monitoring-app
